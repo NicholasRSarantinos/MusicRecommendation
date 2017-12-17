@@ -1,4 +1,4 @@
-# Project Title
+# Music Recommendation
 
 The end goal is to create a music player able to determine which songs to play by utilizing the data stream from Emotiv Insight BCI, as well as other user related information. To date music similarity has been implemented.
 
